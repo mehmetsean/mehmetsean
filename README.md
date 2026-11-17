@@ -28,6 +28,8 @@ In progress:
 
 ## License
 
-All rights reserved. See LICENSE.
+All rights reserved. You may view the code and run it to evaluate it. Commercial use needs a paid license from Mehmet Tuzunkan: https://www.linkedin.com/in/mstuzunkan
+
+See LICENSE.
 
 Outside code contributions are not accepted.
