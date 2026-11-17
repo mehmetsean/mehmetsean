@@ -1,6 +1,6 @@
 # Mehmet Tuzunkan
 
-I have a BS in Industrial Engineering and an MBA. I build small open-source tools for finance data. Each project here has tests, CI, and a script or demo that lets you check what its README says.
+I have a BS in Industrial Engineering and an MBA. I build small tools for finance data, with the source code on GitHub. Each project here has tests, CI, and a script or demo that lets you check what its README says.
 
 ## Projects
 
@@ -25,3 +25,7 @@ In progress:
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/mstuzunkan)
+
+## License
+
+All rights reserved. See LICENSE.
