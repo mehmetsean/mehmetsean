@@ -1,6 +1,6 @@
 # Mehmet Tuzunkan
 
-Industrial engineer with an MBA. I build small open-source tools for finance and operations data. Each project here has tests, CI, and a script or demo that lets you check what its README says.
+I have a BS in Industrial Engineering and an MBA. I build small open-source tools for finance data. Each project here has tests, CI, and a script or demo that lets you check what its README says.
 
 ## Projects
 
@@ -19,8 +19,8 @@ In progress:
 
 - MS Computer Science, Human-Computer Interaction specialization, Georgia Tech (OMSCS), expected December 2027
 - BA Accounting, University of Maine at Presque Isle, starting January 2027
-- Preparing for the PMP exam
-- Preparing for the NCEES FE exam, Industrial and Systems
+- PMP, in progress
+- NCEES FE Industrial and Systems, in progress
 
 ## Contact
 
