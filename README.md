@@ -1,16 +1,27 @@
-## Hi there 👋
+# Mehmet Tuzunkan
 
-<!--
-**mehmetsean/mehmetsean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial engineer with an MBA. I build small open-source tools for finance and operations data. Each project here has tests, CI, and a script or demo that lets you check what its README says.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does | Demo | CI |
+| --- | --- | --- | --- |
+| [synthbiz](https://github.com/mehmetsean/synthbiz) | Seeded synthetic finance data for one fictional manufacturer: ten linked tables that reconcile, with planted and labeled anomalies. | [In the browser](https://mehmetsean.github.io/synthbiz/) | [![ci](https://github.com/mehmetsean/synthbiz/actions/workflows/ci.yml/badge.svg)](https://github.com/mehmetsean/synthbiz/actions/workflows/ci.yml) |
+
+## Education
+
+Completed:
+
+- BS Industrial Engineering (ABET-accredited), University at Buffalo (SUNY), 2021
+- MBA, University at Buffalo (SUNY), 2021
+
+In progress:
+
+- MS Computer Science, Human-Computer Interaction specialization, Georgia Tech (OMSCS), expected December 2027
+- BA Accounting, University of Maine at Presque Isle, starting January 2027
+- Preparing for the PMP exam
+- Preparing for the NCEES FE exam, Industrial and Systems
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/mstuzunkan)
