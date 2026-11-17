@@ -30,6 +30,6 @@ In progress:
 
 All rights reserved. You may view the code and run it to evaluate it. Commercial use needs a paid license from Mehmet Tuzunkan: https://www.linkedin.com/in/mstuzunkan
 
-Any other use needs written permission. See LICENSE.
+Any other use needs written permission, except where LICENSE says otherwise. See LICENSE.
 
 Outside code contributions are not accepted.
