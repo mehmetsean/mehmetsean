@@ -1,0 +1,30 @@
+Copyright (c) 2026 Mehmet Tuzunkan. All rights reserved.
+
+This software and everything in this repository, including source code,
+documentation, diagrams, sample data and web pages, is owned by Mehmet
+Tuzunkan and is protected by copyright law.
+
+You may view the source code and run the software on your own computer
+only to evaluate it. No other right is granted. Without written permission
+from Mehmet Tuzunkan, you may not:
+
+- copy, modify, translate or make derivative works of it;
+- publish, distribute, sublicense, sell, rent or lend it;
+- use it in or for any commercial product or service, or to provide a
+  service to others;
+- use it to train or improve any machine learning model;
+- remove or change this notice.
+
+Viewing and forking this repository on GitHub is allowed only as far as
+the GitHub Terms of Service require. A fork does not give you any of the
+rights listed above.
+
+Parts made by others, such as dependencies and public data, keep their
+own licenses. Where they apply, they are listed in THIRD_PARTY_NOTICES.md.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+To ask for permission or a commercial license, contact Mehmet Tuzunkan at
+https://www.linkedin.com/in/mstuzunkan
