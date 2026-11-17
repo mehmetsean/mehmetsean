@@ -29,3 +29,5 @@ In progress:
 ## License
 
 All rights reserved. See LICENSE.
+
+Outside code contributions are not accepted.
